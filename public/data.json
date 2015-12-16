@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id":   10,
+      "name": "Barry"
+    },
+    {
+      "id": 11,
+      "name": "Fanny"
+    },
+    {
+      "id": 12,
+      "name": "Sally"
+    }
+  ],
+  "lists": [
+    {
+      "id": 70,
+      "user_id": 12,
+      "title": "Pizza Toppings",
+      "list_items": [20, 24, 28, 22, 21, 27, 29, 26, 23, 25]
+    },
+    {
+      "id": 71,
+      "user_id": 10,
+      "title": "Pizza Toppings",
+      "list_items": [21, 23, 24, 20, 25, 29, 27, 26, 28, 22]
+    },
+    {
+      "id": 72,
+      "user_id": 11,
+      "title": "Pizza Toppings",
+      "list_items": [30, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    }
+  ],
+  "items": [
+    {
+      "id": 20,
+      "name": "Pepperoni"
+    },
+    {
+      "id": 21,
+      "name": "Jalapeno"
+    },
+    {
+      "id": 22,
+      "name": "Sausage"
+    },
+    {
+      "id": 23,
+      "name": "Onion"
+    },
+    {
+      "id": 24,
+      "name": "Pineapple"
+    },
+    {
+      "id": 25,
+      "name": "Green Pepper"
+    },
+    {
+      "id": 26,
+      "name": "Anchovies"
+    },
+    {
+      "id": 27,
+      "name": "Sardines"
+    },
+    {
+      "id": 28,
+      "name": "Bacon"
+    },
+    {
+      "id": 29,
+      "name": "Garlic"
+    },
+    {
+      "id": 30,
+      "name": "Ham"
+    },
+    {
+      "id": 31,
+      "name": "Razor Blades"
+    }
+  ]
+}
+
