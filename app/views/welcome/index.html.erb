@@ -9,3 +9,11 @@ given lists. Any simple algorithm for aggregating the lists will do. We would
 just like to see your development style and are not necessarily looking for the
 most accurate or impressive algorithm.
 </p>
+
+<h2>The most popular pizza toppings are:</h2>
+
+<ol>
+  <% @items.each do |item| %>
+    <li><%= item %></li>
+  <% end %>
+<ol>
